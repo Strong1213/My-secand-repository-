@@ -1,2 +1,3 @@
 # My-secand-repository-
-author-name-islam navi
+author-islam navi
+teacher-raza ali
