@@ -55,7 +55,7 @@ let fooditem=["aaple","mango","banana","turmeric","payaya"];
 console.log(fooditem);
 console.log(fooditem.toString()); 
 // cancat method:
-let indianhero=["rana","tana","sana","jana","papa"];
+let indianhero=["rana","tana","sana","jana","uncle"];
 let rejahero=["you","him"];
 let technohero=indianhero.concat(rejahero);
 console.log(technohero);
