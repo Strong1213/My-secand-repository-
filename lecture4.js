@@ -51,7 +51,7 @@ let deleteditems =fooditems.pop();
 console.log(fooditems);
 console.log(deleteditems)
 // tostring method:
-let fooditem=["aaple","mango","banana","oramge","payaya"];
+let fooditem=["aaple","mango","banana","turmeric","payaya"];
 console.log(fooditem);
 console.log(fooditem.toString()); 
 // cancat method:
